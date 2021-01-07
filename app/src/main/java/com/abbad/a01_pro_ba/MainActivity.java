@@ -10,6 +10,13 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+        
+        forSecondCangess();
+    }
+
+    private void forSecondCangess() {
     }
     // Пробные действия с визуальной оболочкой.
+
+    
 }
