@@ -118,9 +118,9 @@
 
     <Button
         android:id="@+id/exit_for_save"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="Назад"
+        android:layout_width="130dp"
+        android:layout_height="46dp"
+        android:text="Вернутся в меню"
         android:textAllCaps="false"
         android:textColor="#0C0C0C"
         app:layout_constraintStart_toStartOf="parent"

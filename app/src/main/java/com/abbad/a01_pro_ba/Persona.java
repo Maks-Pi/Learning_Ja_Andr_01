@@ -1,7 +1,7 @@
 package com.abbad.a01_pro_ba;
 
 public class Persona {
-
+    //конструктор полей контакта. Ну и сам клас контакта.
     private  String firstName;
     private  String secondName;
     private  String family;
@@ -17,7 +17,7 @@ public class Persona {
         this.homeNumber = homeNumber;
         this.notice = notice;
     }
-
+    // сеттеры и геттеры на об*явленные поля. Автогенерация.
     public String getFirstName() {
         return firstName;
     }
